@@ -1,0 +1,13 @@
+# Binaries
+/kvd
+*.exe
+*.test
+
+# Coverage and profiling output
+*.out
+*.prof
+coverage.*
+
+# Go workspace files
+go.work
+go.work.sum
